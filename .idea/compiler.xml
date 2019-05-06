@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easy_plat_interface" />
+        <module name="easy_plat_service" />
+        <module name="easysell_basic_util" />
+        <module name="easysell_eureka7001" />
+        <module name="easysell_eureka9001" />
+        <module name="easysell_zuul9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easy_plat_interface" target="1.5" />
+      <module name="easy_plat_service" target="1.5" />
+      <module name="easysell_basic_parent" target="1.5" />
+      <module name="easysell_basic_util" target="1.5" />
+      <module name="easysell_eureka7001" target="1.5" />
+      <module name="easysell_eureka9001" target="1.5" />
+      <module name="easysell_parent" target="1.5" />
+      <module name="easysell_plat_parent" target="1.5" />
+      <module name="easysell_zuul9527" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

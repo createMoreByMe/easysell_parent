@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/easysell_plat_parent/easy_plat_interface/easy_plat_interface.iml" filepath="$PROJECT_DIR$/easysell_plat_parent/easy_plat_interface/easy_plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easysell_plat_parent/easy_plat_service/easy_plat_service.iml" filepath="$PROJECT_DIR$/easysell_plat_parent/easy_plat_service/easy_plat_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easysell_basic_parent/easysell_basic_parent.iml" filepath="$PROJECT_DIR$/easysell_basic_parent/easysell_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easysell_basic_parent/easysell_basic_util/easysell_basic_util.iml" filepath="$PROJECT_DIR$/easysell_basic_parent/easysell_basic_util/easysell_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easysell_eureka7001/easysell_eureka7001.iml" filepath="$PROJECT_DIR$/easysell_eureka7001/easysell_eureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easysell_parent.iml" filepath="$PROJECT_DIR$/easysell_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easysell_plat_parent/easysell_plat_parent.iml" filepath="$PROJECT_DIR$/easysell_plat_parent/easysell_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easysell_zuul9527/easysell_zuul9527.iml" filepath="$PROJECT_DIR$/easysell_zuul9527/easysell_zuul9527.iml" />
+    </modules>
+  </component>
+</project>
